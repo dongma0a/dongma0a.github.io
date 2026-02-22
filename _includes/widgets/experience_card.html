@@ -26,12 +26,12 @@
                     </div>
                     {% endif %}
 
-                    {% if site.data.profile.experience %}
+                    {% if site.data.profile.appointments %}
                     <div class="col-lg-6">
                         <div class="mx-2 my-1">
-                            <h6>Experience</h6>
+                            <h6>Appointments</h6>
                             <ul class="list-unstyled mb-1">
-                                {% for item in site.data.profile.experience %}
+                                {% for item in site.data.profile.appointments %}
                                 <li class="media mb-1">
                                     <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
                                     <div class="media-body">
@@ -49,12 +49,12 @@
                     </div>
                     {% endif %}
 
-                    {% if site.data.profile.awards %}
+                    {% if site.data.profile.topics%}
                     <div class="col-lg-6">
                         <div class="mx-2 my-1">
-                            <h6>Honors & Awards</h6>
-                            <ul class="list small pl-3 mb-1">
-                                {% for item in site.data.profile.awards %}
+                            <h6>Research Topics</h6>
+                            <ul class="list pl-3 mb-1" style="font-size: 100%;">
+                                {% for item in site.data.profile.topics %}
                                 <li>
                                     <div class="d-flex">
                                         <div>{{ item.name }}</div>
@@ -73,3 +73,4 @@
         </div>
     </div>
 </div>
+
