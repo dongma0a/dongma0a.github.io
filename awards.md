@@ -22,6 +22,6 @@ permalink: /awards/
 - <strong>Student Travel Grant</strong>, ACM MobiCom 2018.
 - <strong>Best Demo Runner-up Award</strong>, ACM/IEEE IoTDI, 2018.
 - <strong>DATA61 & CSIRO Top-up Scholarship</strong>, Australia, 2016 - 2020.
-- <strong>University International Postgraduate Award (UIPA), University of New South Wales, 2016-2020.
-- <strong>Outstanding graduate in Central South University</strong>, China. 2014.
+- <strong>University International Postgraduate Award (UIPA)</strong>, University of New South Wales, 2016-2020.
+- <strong>Outstanding Graduate</strong> in Central South University, China. 2014.
 - <strong>National Scholarship of China</strong>, 2013.
