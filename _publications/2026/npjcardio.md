@@ -6,7 +6,7 @@ pub:            "npj Cardiovascular Health, "
 pub_date:       "2026"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/npjcardio.png
+cover:          /assets/images/covers/npjcardio.jpg
 authors:
   - Jialu Tang
   - Hung Manh Pham
