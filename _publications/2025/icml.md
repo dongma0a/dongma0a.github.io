@@ -6,7 +6,7 @@ pub:            "Forty-Second International Conference on Machine Learning, "
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/icml.png
+cover:          /assets/images/covers/icml.jpg
 authors:
   - Manh Pham Hung
   - Aaqib Saeed
