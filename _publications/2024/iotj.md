@@ -6,7 +6,7 @@ pub:            "IEEE Internet of Things Journal, "
 pub_date:       "2024"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/iotj.png
+cover:          /assets/images/covers/iotj.jpg
 authors:
   - Yuezhong Wu
   - Wei Song
