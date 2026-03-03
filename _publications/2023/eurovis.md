@@ -6,7 +6,7 @@ pub:            "25th edition of EuroVis, "
 pub_date:       "2023"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/eurovis.png
+cover:          /assets/images/covers/eurovis.jpg
 authors:
   - Songheng Zhang 
   - <strong>Dong Ma</strong>
