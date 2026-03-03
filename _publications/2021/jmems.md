@@ -6,7 +6,7 @@ pub:            "IEEE Journal of Microelectromechanical Systems, "
 pub_date:       "2021"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/jmems.png
+cover:          /assets/images/covers/jmems.jpg
 authors:
   - Sheng Sun
   - Jianyuan Wang
