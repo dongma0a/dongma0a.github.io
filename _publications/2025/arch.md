@@ -6,7 +6,7 @@ pub:            "Archives of Gerontology and Geriatrics, "
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/arch.png
+cover:          /assets/images/covers/arch.jpg
 authors:
   - Thu Tran
   - Yi Zhen Tan 
