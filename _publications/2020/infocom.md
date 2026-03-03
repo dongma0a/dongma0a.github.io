@@ -6,7 +6,7 @@ pub:            "IEEE International Conference on Computer Communications, "
 pub_date:       "2020"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/infocom.png
+cover:          /assets/images/covers/infocom.jpg
 authors:
   - <strong>Dong Ma</strong>
   - Ming Ding
