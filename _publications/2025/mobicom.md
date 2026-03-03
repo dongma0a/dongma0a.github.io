@@ -6,7 +6,7 @@ pub:            "31st Annual International Conference on Mobile Computing and Ne
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/mobicom.png
+cover:          /assets/images/covers/mobicom.jpg
 authors:
   - Yetong Cao
   - <strong>Dong Ma</strong>
