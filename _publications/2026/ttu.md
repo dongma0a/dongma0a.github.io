@@ -12,7 +12,7 @@ authors:
   - Young D. Kwon
   - <strong>Dong Ma</strong>†
 links:
-  Paper: [https://openreview.net/pdf?id=7kLNGaAHaw](https://openreview.net/forum?id=35oSXGUjDH)
+  Paper: https://openreview.net/forum?id=35oSXGUjDH
   # Code: https://github.com/TheMaXiao/PEA_TTA
   #Dataset: https://www.kaggle.com/datasets/dongma878/clearspeech
 ---
