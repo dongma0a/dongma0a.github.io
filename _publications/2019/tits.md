@@ -6,7 +6,7 @@ pub:            "IEEE Transactions on Intelligent Transportation Systems, "
 pub_date:       "2019"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/tits.png
+cover:          /assets/images/covers/tits.jpg
 authors:
   - Guohao Lan
   - Weitao Xu
