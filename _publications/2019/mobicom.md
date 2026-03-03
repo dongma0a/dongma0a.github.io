@@ -6,7 +6,7 @@ pub:            "25th ACM Annual International Conference on Mobile Computing an
 pub_date:       "2019"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/mobicom.png
+cover:          /assets/images/covers/mobicom.jpg
 authors:
   - <strong>Dong Ma</strong>
   - Guohao Lan
