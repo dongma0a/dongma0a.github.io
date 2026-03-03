@@ -6,7 +6,7 @@ pub:            "ACM Transactions on Internet of Things, "
 pub_date:       "2019"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/tiot.png
+cover:          /assets/images/covers/tiot.jpg
 authors:
   - Guohao Lan
   - <strong>Dong Ma</strong>
