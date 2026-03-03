@@ -6,7 +6,7 @@ pub:            "27th ACM Annual International Conference on Mobile Computing an
 pub_date:       "2021"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/mobicom.png
+cover:          /assets/images/covers/mobicom.jpg
 authors:
   - Andrea Ferlini*
   - <strong>Dong Ma</strong>*
