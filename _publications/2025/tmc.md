@@ -6,7 +6,7 @@ pub:            "IEEE Transaction on Mobile Computing, "
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/tmc.png
+cover:          /assets/images/covers/tmc.jpg
 authors:
   - Xiao Ma
   - Shengfeng He
