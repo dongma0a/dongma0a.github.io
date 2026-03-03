@@ -6,7 +6,7 @@ pub:            "28th ACM Annual International Conference on Mobile Computing an
 pub_date:       "2022"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/mobicom.png
+cover:          /assets/images/covers/mobicom.jpg
 authors:
   - Nhat Pham
   - Hong Jia
