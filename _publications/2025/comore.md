@@ -6,7 +6,7 @@ pub:            "21st workshop on Context and Activity Modeling and Recognition,
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/comore.png
+cover:          /assets/images/covers/comore.jpg
 authors:
   - Hemanth Sabbella
   - Archit Mukherjee
