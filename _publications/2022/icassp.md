@@ -6,7 +6,7 @@ pub:            "IEEE International Conference on Acoustics, Speech and Signal P
 pub_date:       "2022"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/icassp.png
+cover:          /assets/images/covers/icassp.jpg
 authors:
   - <strong>Dong Ma</strong>*
   - Chi Ian Tang*
