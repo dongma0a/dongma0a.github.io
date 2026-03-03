@@ -6,7 +6,7 @@ pub:            "24th International Workshop on Mobile Computing Systems and App
 pub_date:       "2023"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/hotmobile.png
+cover:          /assets/images/covers/hotmobile.jpg
 authors:
   - Changshuo Hu*
   - Xiao Ma*
