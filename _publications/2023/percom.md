@@ -6,7 +6,7 @@ pub:            "21st International Conference on Pervasive Computing and Commun
 pub_date:       "2023"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/percom.png
+cover:          /assets/images/covers/percom.jpg
 authors:
   - Kayla-Jade Butkow
   - Ting Dang
