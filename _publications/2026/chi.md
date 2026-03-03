@@ -6,7 +6,7 @@ pub:            "The ACM CHI conference on Human Factors in Computing Systems, "
 pub_date:       "2026"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/chi.png
+cover:          /assets/images/covers/chi.jpg
 authors:
   - Sizhe Cheng
   - Songheng Zhang
