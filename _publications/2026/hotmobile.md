@@ -14,7 +14,7 @@ authors:
   - <strong>Dong Ma</strong>
   - Cecilia Mascolo
 links:
-  Paper: https://
+  Paper: https://dl.acm.org/doi/10.1145/3789514.3792046
   #Code: https://github.com/dongma0a/SolarGest_Modelling
   #Dataset: https://www.kaggle.com/datasets/dongma878/clearspeech
 ---
