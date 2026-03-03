@@ -6,7 +6,7 @@ pub:            "News & Views under Nature Electronics, "
 pub_date:       "2024"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/newsviews.png
+cover:          /assets/images/covers/newsviews.jpg
 authors:
   - <strong>Dong Ma</strong>
 links:
