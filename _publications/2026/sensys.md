@@ -6,7 +6,7 @@ pub:            "ACM/IEEE International Conference on Embedded Artificial Intell
 pub_date:       "2026"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/sensys.png
+cover:          /assets/images/covers/sensys.jpg
 authors:
   - Changshuo Hu*
   - Hung Manh Pham*
