@@ -6,7 +6,7 @@ pub:            "Nature Communications, "
 pub_date:       "2026"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/naturecom.png
+cover:          /assets/images/covers/naturecom.jpg
 authors:
   - Kayla-Jade Butkow
   - Navazh Jalaludeen
