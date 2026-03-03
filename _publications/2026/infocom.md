@@ -6,7 +6,7 @@ pub:            "AIEEE International Conference on Computer Communications, "
 pub_date:       "2026"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/infocom.png
+cover:          /assets/images/covers/infocom.jpg
 authors:
   - Yuezhong Wu
   - Xin Miao
