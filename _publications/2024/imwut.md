@@ -6,7 +6,7 @@ pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubi
 pub_date:       "2024"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/imwut.png
+cover:          /assets/images/covers/imwut.jpg
 authors:
   - Changshuo Hu
   - Thivya Kandappu
