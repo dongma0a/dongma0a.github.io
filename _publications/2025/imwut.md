@@ -6,7 +6,7 @@ pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubi
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/imwut.png
+cover:          /assets/images/covers/imwut.jpg
 authors:
   - Qiang Yang
   - Yang Liu
