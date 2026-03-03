@@ -6,7 +6,7 @@ pub:            "Proceedings of International Workshop on Mobile Computing Syste
 pub_date:       "2026"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/hotmobile.png
+cover:          /assets/images/covers/hotmobile.jpg
 authors:
   - Yang Liu
   - Qiang Yang
