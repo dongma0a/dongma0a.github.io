@@ -6,7 +6,7 @@ pub:            "28th European Conference on Artificial Intelligence, "
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/ecai.png
+cover:          /assets/images/covers/ecai.jpg
 authors:
   - Hung Manh Pham
   - Jialu Tang
