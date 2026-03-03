@@ -6,7 +6,7 @@ pub:            "Scientific Reports , "
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/scireport.png
+cover:          /assets/images/covers/scireport.jpg
 authors:
   - Hung Manh Pham 
   - Matthew Yiwen Ho
