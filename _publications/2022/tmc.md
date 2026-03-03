@@ -6,7 +6,7 @@ pub:            "IEEE Transaction on Mobile Computing, "
 pub_date:       "2022"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/tmc.png
+cover:          /assets/images/covers/tmc.jpg
 authors:
   - <strong>Dong Ma</strong>
   - Guohao Lan
