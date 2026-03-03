@@ -6,7 +6,7 @@ pub:            "14th International Conference on Learning Representations, "
 pub_date:       "2026"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/iclr.png
+cover:          /assets/images/covers/iclr.jpg
 authors:
   - Xiao Ma
   - Young D. Kwon
