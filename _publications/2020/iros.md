@@ -6,7 +6,7 @@ pub:            "IEEE/RSJ International Conference on Intelligent Robots and Sys
 pub_date:       "2020"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/iros.png
+cover:          /assets/images/covers/iros.jpg
 authors:
   - Wei Bo
   - Weitao Xu
