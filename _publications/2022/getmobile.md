@@ -6,7 +6,7 @@ pub:            "ACM GetMobile: Mobile Computing and Communications, "
 pub_date:       "2022"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/getmobile.png
+cover:          /assets/images/covers/getmobile.jpg
 authors:
   - <strong>Dong Ma</strong>
   - Andrea Ferlini
