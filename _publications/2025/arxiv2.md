@@ -6,7 +6,7 @@ pub:            "ArXiv, "
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/arxiv.png
+cover:          /assets/images/covers/arxiv.jpg
 authors:
   - Changshuo Hu*
   - Qiang Yang*
