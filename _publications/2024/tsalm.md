@@ -6,7 +6,7 @@ pub:            "Time Series in the Age of Large Models, "
 pub_date:       "2024"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/tsalm.png
+cover:          /assets/images/covers/tsalm.jpg
 authors:
   - Manh Pham Hung
   - Aaqib Saeed
