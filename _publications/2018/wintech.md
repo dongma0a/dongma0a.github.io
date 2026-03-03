@@ -6,7 +6,7 @@ pub:            "12th ACM International Workshop on Wireless Network Testbeds, E
 pub_date:       "2018"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/wintech.png
+cover:          /assets/images/covers/wintech.jpg
 authors:
   - <strong>Dong Ma</strong>
   - Guohao Lan
