@@ -12,6 +12,7 @@ permalink: /service/
 
 <span class="badge badge-publication badge-success">Organizing Committee</span>
 - <strong>TPC Co-Chair</strong>: AIoTSys'25, BodySys'24@MobiSys'24, SmartWear'23@MobiCom'23.
+- <strong>TPC Vice Co-chair</strong>: PerCom'27.
 - <strong>Vice-General Co-Chair</strong>: MobiSys'26.
 - <strong>General Co-Chair</strong>: Earcomp'22.
 - <strong>Publication Co-Chair</strong>: PerCom'26, PerCom'25, HotMobile'22.
