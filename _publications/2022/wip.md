@@ -6,7 +6,7 @@ pub:            "20th IEEE International Conference on Pervasive Computing and C
 pub_date:       "2022"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/percompwip.png
+cover:          /assets/images/covers/percompwip.jpg
 authors:
   - Hamada Rizk
   - <strong>Dong Ma</strong>
