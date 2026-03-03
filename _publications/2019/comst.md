@@ -6,7 +6,7 @@ pub:            "IEEE Communications Surveys & Tutorials, "
 pub_date:       "2019"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/comst.png
+cover:          /assets/images/covers/comst.jpg
 authors:
   - <strong>Dong Ma</strong> 
   - Guohao Lan
