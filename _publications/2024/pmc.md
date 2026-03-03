@@ -6,7 +6,7 @@ pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubi
 pub_date:       "2024"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/pmc.png
+cover:          /assets/images/covers/pmc.jpg
 authors:
   - Kayla-Jade Butkow
   - Ting Dang
