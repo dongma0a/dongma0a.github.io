@@ -6,7 +6,7 @@ pub:            "IEEE Workshop on Pervasive Systems in the IoT Era, "
 pub_date:       "2020"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/persistiot.png
+cover:          /assets/images/covers/persistiot.jpg
 authors:
   - Changshuo Hu
   - <strong>Dong Ma</strong>
