@@ -6,7 +6,7 @@ pub:            "Nature Scientific Data, "
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/scidata.png
+cover:          /assets/images/covers/scidata.jpg
 authors:
   - Matthew Yiwen Ho
   - Hung Manh Pham
