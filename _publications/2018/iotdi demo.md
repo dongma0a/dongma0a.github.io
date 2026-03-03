@@ -7,7 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2018"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/demoiotdi.png
+cover:          /assets/images/covers/demoiotdi.jpg
 authors:
   - <strong>Dong Ma</strong>
   - Guohao Lan
