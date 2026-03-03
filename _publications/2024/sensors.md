@@ -6,7 +6,7 @@ pub:            "MDPI Sensors Journal, "
 pub_date:       "2024"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/sensors.png
+cover:          /assets/images/covers/sensors.jpg
 authors:
   - Thu Tran
   - <strong>Dong Ma</strong>
