@@ -6,7 +6,7 @@ pub:            "IEEE Wireless Communications and Networking Conference, "
 pub_date:       "2020"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/wcnc.png
+cover:          /assets/images/covers/wcnc.jpg
 authors:
   - <strong>Dong Ma</strong>
   - Ming Ding
