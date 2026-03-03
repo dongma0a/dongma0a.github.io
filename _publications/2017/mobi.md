@@ -6,7 +6,7 @@ pub:            "Proceedings of the 14th EAI International Conference on Mobile 
 pub_date:       "2017"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/mobiquitous.png
+cover:          /assets/images/covers/mobiquitous.jpg
 authors:
   - Guohao Lan
   - <strong>Dong Ma</strong>
