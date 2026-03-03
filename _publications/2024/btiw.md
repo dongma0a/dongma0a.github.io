@@ -6,7 +6,7 @@ pub:            "Behavior Transformation by IoT International Workshop, "
 pub_date:       "2024"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/btiw.png
+cover:          /assets/images/covers/btiw.jpg
 authors:
   - Yi Zhen Tan
   - Thu Tran
