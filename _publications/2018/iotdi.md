@@ -6,7 +6,7 @@ pub:            "3rd ACM/IEEE International Conference on Internet of Things Des
 pub_date:       "2018"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/iotdi.png
+cover:          /assets/images/covers/iotdi.jpg
 authors:
   - <strong>Dong Ma</strong>
   - Guohao Lan
