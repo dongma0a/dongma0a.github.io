@@ -6,7 +6,7 @@ pub:            "IEEE Pervasive Computing special issue on Grand Challenges in P
 pub_date:       "2022"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/pervasive.png
+cover:          /assets/images/covers/pervasive.jpg
 authors:
   - Andrea Ferlini*
   - <strong>Dong Ma</strong>*
