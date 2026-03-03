@@ -6,7 +6,7 @@ pub:            "Congress of the International Society of Biomechanics, "
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/isb.png
+cover:          /assets/images/covers/isb.jpg
 authors:
   - Jake Stuchbury-Wass
   - Josh Carter
