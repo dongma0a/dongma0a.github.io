@@ -6,7 +6,7 @@ pub:            "19th ACM/IEEE Conference on Information Processing in Sensor Ne
 pub_date:       "2020"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/posteripsn.png
+cover:          /assets/images/covers/posteripsn.jpg
 authors:
   - Changshuo Hu
   - <strong>Dong Ma</strong>
