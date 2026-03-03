@@ -6,7 +6,7 @@ pub:            "10th Workshop on Body-Centric Computing Systems, "
 pub_date:       "2024"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/bodysys.png
+cover:          /assets/images/covers/bodysys.jpg
 authors:
   - Changshuo Hu
   - Thivya Kandappu
