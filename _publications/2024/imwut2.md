@@ -7,7 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2024"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/imwut.png
+cover:          /assets/images/covers/imwut.jpg
 authors:
   - Changshuo Hu
   - Xiao Ma
