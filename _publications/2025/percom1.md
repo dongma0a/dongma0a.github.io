@@ -6,7 +6,7 @@ pub:            "23nd International Conference on Pervasive Computing and Commun
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/percom.png
+cover:          /assets/images/covers/percom.jpg
 authors:
   - Jake Stuchbury-Wass
   - Yang Liu
