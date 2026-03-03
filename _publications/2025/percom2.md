@@ -7,7 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2025"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/percom.png
+cover:          /assets/images/covers/percom.jpg
 authors:
   - Yang Liu*
   - Kayla-Jade Butkow*
