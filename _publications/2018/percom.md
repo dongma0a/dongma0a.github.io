@@ -6,7 +6,7 @@ pub:            "16th IEEE International Conference on Pervasive Computing and C
 pub_date:       "2018"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/percom.png
+cover:          /assets/images/covers/percom.jpg
 authors:
   - Guohao Lan
   - <strong>Dong Ma</strong>
