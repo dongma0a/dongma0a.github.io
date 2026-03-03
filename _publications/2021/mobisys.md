@@ -6,7 +6,7 @@ pub:            "19th ACM International Conference on Mobile Systems, Applicatio
 pub_date:       "2021"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/mobisys.png
+cover:          /assets/images/covers/mobisys.jpg
 authors:
   - <strong>Dong Ma</strong>
   - Andrea Ferlini
