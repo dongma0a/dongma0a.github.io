@@ -6,7 +6,7 @@ pub:            "Fifth International Workshop on Earable Computing, "
 pub_date:       "2024"
 semantic_scholar_id: 
 abstract: 
-cover:          /assets/images/covers/earcomp.png
+cover:          /assets/images/covers/earcomp.jpg
 authors:
   - Qiang Yang
   - Yang Liu
