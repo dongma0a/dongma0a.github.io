@@ -14,6 +14,7 @@ permalink: /service/
 - <strong>General Co-Chair</strong>: Earcomp'22.
 - <strong>Vice General Co-Chair</strong>: MobiSys'26.
 - <strong>Publication Co-Chair</strong>: PerCom'26, PerCom'25, HotMobile'22.
+- <strong>Tutorial Co-Chair</strong>: UbiComp'26.
 - <strong>Poster Co-Chair</strong>: SECON'26.
 - <strong>PhD Forum Co-Chair</strong>: WoWMoM'25.
 - <strong>Video Chair</strong>: MobiSys'22.
