@@ -20,7 +20,7 @@ permalink: /service/
 - <strong>Video Chair</strong>: MobiSys'22.
 
 <span class="badge badge-publication badge-success">Technical Program Committee</span>
-- <strong>TPC Co-Chair</strong>: AIoTSys'25, BodySys'24@MobiSys'24, SmartWear'23@MobiCom'23.
+- <strong>TPC Co-Chair</strong>: HeadSys'26@MobiSys'26, AIoTSys'25, BodySys'24@MobiSys'24, SmartWear'23@MobiCom'23.
 - <strong>TPC Vice Co-Chair</strong>: PerCom'27.
 - <strong>Journal Associate Editor</strong>: IMWUT (2024/11-).
 - <strong>TPC member - Main Conference</strong>: MobiCom'26, SenSys'26, MobiCom'25, PerCom'25, MobiCom'24, MobiSys'24, EWSN'24, WWW'23, EWSN'23, MASSS'22.
