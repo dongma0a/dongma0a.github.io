@@ -1,0 +1,23 @@
+---
+title:          "Ear-worn Inertial Sensors Can Predict Gait Metrics and Reconstruct Vertical Ground Reaction Force Curves During Running"
+date:           2026-03-05 00:01:00 +0800
+selected:       false
+pub:            "Journal of Applied Biomechanics, "
+pub_date:       "2026"
+semantic_scholar_id: 
+abstract: 
+cover:          /assets/images/covers/jab.jpg
+authors:
+  - Jake Stuchbury-Wass
+  - Mathias Ciliberto
+  - Kayla-Jade Butkow
+  - Qiang Yang
+  - Yang Liu
+  - Ezio Preatoni
+  - <strong>Dong Ma</strong>
+  - Cecilia Mascolo
+links:
+  Paper: https://
+  # Code: https://github.com/TheMaXiao/PEA_TTA
+  #Dataset: https://www.kaggle.com/datasets/dongma878/clearspeech
+---
