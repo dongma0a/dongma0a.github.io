@@ -1,7 +1,7 @@
 ---
 title:          "Poster Abstract: Turning Budget Earphones into Hi-Fi with Hardware-Aware Learning"
 date:           2026-03-15 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems, "
 pub_date:       "2026"
 semantic_scholar_id: 
