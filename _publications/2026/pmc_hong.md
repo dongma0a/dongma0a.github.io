@@ -1,7 +1,7 @@
 ---
 title:          "A Cascade Framework for On-Device Uncertainty-Aware Event Detection on Microcontrollers"
 date:           2026-03-10 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Pervasive and Mobile Computing Journal, "
 pub_date:       "2026"
 semantic_scholar_id: 
