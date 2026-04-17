@@ -16,7 +16,7 @@ authors:
   - Yuezhong Wu
   - Thivya Kandappu
   - Archan Misra
-  - <strong>Dong Ma</strong>
+  - <strong>Dong Ma</strong>†
 links:
   # Paper: https://dl.acm.org/doi/10.1145/3770688
   #Code: https://github.com/dongma0a/SolarGest_Modelling
