@@ -1,0 +1,25 @@
+---
+title:          "PulseLM: A Foundation Dataset and Benchmark for PPG-Text Learning"
+date:           2026-01-03 00:01:00 +0800
+selected:       false
+pub:            "ArXiv, "
+pub_date:       "2026"
+semantic_scholar_id: 
+abstract: 
+cover:          /assets/images/covers/arxiv.jpg
+authors:
+  - Hung Manh Pham
+  - Jinyang Wu
+  - Xiao Ma
+  - Yiming Zhang
+  - Yixin Xu
+  - Aaqib Saeed
+  - <strong>Bin Zhu</strong>†
+  - <strong>Zhou Pan</strong>†
+  - <strong>Dong Ma</strong>†
+
+links:
+  Paper: https://arxiv.org/abs/2603.03331
+  Code: https://github.com/manhph2211/PulseLM
+  Dataset: https://huggingface.co/datasets/Manhph2211/PulseLM
+---
