@@ -18,6 +18,6 @@ authors:
   
 links:
   Paper: https://www.nature.com/articles/s41598-025-31883-5
-  #Code: https://github.com/dongma0a/SolarGest_Modelling
+  Code: https://github.com/manhph2211/CP-PPG
   #Dataset: https://www.kaggle.com/datasets/dongma878/clearspeech
 ---
