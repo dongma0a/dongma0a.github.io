@@ -28,7 +28,7 @@ permalink: /service/
 
 
 <span class="badge badge-publication badge-success">Additional Review Service</span>
-- 2026: NeurIPS, PMC, UIST
+- 2026: NeurIPS, PMC, UIST, KDD
 - 2025: CHI, UIST, ICLR, TMC, TOSN, Scientific Data
 - 2024: CHI, TMC, Nature Electronics
 - 2023: TMC, TON, EWSN, TII, IMWUT, WWW
