@@ -1,8 +1,8 @@
 ---
-title:          "BreathPro: Monitoring Breathing Mode during Running with Earables"
+title:          "An Evaluation of Heart Rate Monitoring with In-ear Microphones Under Motion"
 date:           2024-05-20 00:01:00 +0800
 selected:       false
-pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, "
+pub:            "In Pervasive and Mobile Computing, "
 pub_date:       "2024"
 semantic_scholar_id: 
 abstract: 
