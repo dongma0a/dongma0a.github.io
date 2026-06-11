@@ -14,7 +14,7 @@ authors:
   - Josh Carter
   - Qiang Yang
   - Mathias Ciliberto
-  - Ezio Preatoni,
+  - Ezio Preatoni
   - <strong>Dong Ma</strong>
   - Cecilia Mascolo
 
