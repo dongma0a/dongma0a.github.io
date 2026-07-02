@@ -23,7 +23,7 @@ permalink: /service/
 - <strong>TPC Chair</strong>: HeadSys'26@MobiSys'26, AIoTSys'25, BodySys'24@MobiSys'24, SmartWear'23@MobiCom'23.
 - <strong>TPC Vice Chair</strong>: PerCom'27.
 - <strong>Journal Associate Editor</strong>: IMWUT (2024/11-).
-- <strong>TPC Member - Main Conference</strong>: SenSys'27, MobiCom'26, SenSys'26, MobiCom'25, PerCom'25, MobiCom'24, MobiSys'24, EWSN'24, WWW'23, EWSN'23, MASSS'22.
+- <strong>TPC Member - Main Conference</strong>: SenSys'27, MobiCom'26, MobiSys'26, SenSys'26, MobiCom'25, PerCom'25, MobiCom'24, MobiSys'24, EWSN'24, WWW'23, EWSN'23, MASSS'22.
 - <strong>TPC Member - Workshops/Poster</strong>: HumanSys@MobiCom’26, MobiDx@MobiCom’26, RisingStar@MobiSys’26, IASA@MobiCom’25, SmartWear@MobiCom’25, BodySys@UbiComp’25, HumanSys@CPS-IoT Week’25, HumanSys@SenSys’24, Poster@IPSN’24, AdaAIoTSys@MobiSys’24, EarComp@UbiComp’23, IASA@CPS-IoT’23, SmartWear@MobiCom'22, EarComp@UbiComp’21.
 
 
