@@ -1,6 +1,6 @@
 ---
 title:          "The Promise of Spiking Neural Networks for Ubiquitous Computing: A Survey and New Perspectives"
-date:           2025-01-03 00:01:00 +0800
+date:           2026-12-31 00:01:00 +0800
 selected:       false
 pub:            "ArXiv, "
 pub_date:       "2025"
