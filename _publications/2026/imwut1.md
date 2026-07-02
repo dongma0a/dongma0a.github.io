@@ -18,7 +18,7 @@ authors:
   - Archan Misra
   - <strong>Dong Ma</strong>†
 links:
-  # Paper: https://dl.acm.org/doi/10.1145/3770688
+  Paper: https://dl.acm.org/doi/10.1145/3770688](https://dl.acm.org/doi/10.1145/3810216
   #Code: https://github.com/dongma0a/SolarGest_Modelling
-  #Dataset: https://www.kaggle.com/datasets/dongma878/clearspeech
+  Dataset: https://www.kaggle.com/datasets/dongma878/clearspeech](https://github.com/LaserHu/PPG-Sport
 ---
