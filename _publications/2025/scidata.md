@@ -16,5 +16,5 @@ authors:
 links:
   Paper: https://www.nature.com/articles/s41597-025-04453-7
   #Code: https://github.com/TheMaXiao/DiTMoS
-  Dataset: https://www.kaggle.com/datasets/dongma878/eargate](https://springernature.figshare.com/articles/dataset/WF-PPG_A_Wrist-finger_Dual-Channel_Dataset_for_Studying_the_Impact_of_Contact_Pressure_on_PPG_Morphology/27011998?file=50956401
+  Dataset: https://springernature.figshare.com/articles/dataset/WF-PPG_A_Wrist-finger_Dual-Channel_Dataset_for_Studying_the_Impact_of_Contact_Pressure_on_PPG_Morphology/27011998?file=50956401
 ---
