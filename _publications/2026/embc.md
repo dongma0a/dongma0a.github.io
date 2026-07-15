@@ -3,6 +3,7 @@ title:          "Motion-Aware Wrist HR Estimation with Weakly-Supervised Motion 
 date:           2026-4-15 00:01:00 +0800
 selected:       false
 pub:            "48th Annual International Conference of the IEEE Engineering in Medicine & Biology Society, "
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "2026"
 semantic_scholar_id: 
 abstract: 
