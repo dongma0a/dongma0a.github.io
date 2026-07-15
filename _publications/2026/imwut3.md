@@ -1,6 +1,6 @@
 ---
 title:          "PPG-IDR: Leveraging User Identity for Robust Cross-user PPG Sensing via Disentangled Representations"
-date:           2026-7-3 00:01:00 +0800
+date:           2026-7-4 00:01:00 +0800
 selected:       false
 pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, "
 pub_date:       "2026"
