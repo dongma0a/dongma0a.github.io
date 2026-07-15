@@ -1,6 +1,6 @@
 ---
 title:          "Learning from Bilateral PPG via Cross-Site Attention and Knowledge Distillation"
-date:           2026-7-3 00:01:00 +0800
+date:           2026-6-3 00:01:00 +0800
 selected:       false
 pub:            "ICML 2026 Workshop on Structured Data for Health, "
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
