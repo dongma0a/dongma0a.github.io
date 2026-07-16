@@ -3,6 +3,7 @@ title:          "Sensing, Computing, and Communication for Energy Harvesting IoT
 date:           2019-10-21 00:01:00 +0800
 selected:       false
 pub:            "IEEE Communications Surveys & Tutorials, "
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Highly Cited Paper (Top 1%)</span>'
 pub_date:       "2019"
 semantic_scholar_id: 
 abstract: 
