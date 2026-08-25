@@ -1,7 +1,7 @@
 ---
 title:          "Efficient Test-Time Adaptation via Decoupled BN Update For Edge Devices"
 date:           2026-03-03 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "3rd Workshop on Test-Time Updates (TTU), "
 pub_date:       "2026"
 semantic_scholar_id: 
