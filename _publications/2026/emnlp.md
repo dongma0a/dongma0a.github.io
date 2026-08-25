@@ -1,7 +1,7 @@
 ---
 title:          "CultureVidBench: Benchmarking Cultural Understanding in Text-to-Video Generation"
 date:           2026-08-21 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Proceedings of the Conference on Empirical Methods in Natural Language Processing, "
 pub_date:       "2026"
 semantic_scholar_id: 
