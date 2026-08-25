@@ -1,7 +1,7 @@
 ---
 title:          "Dronaquatics: Real-time Swimming Analytics Using Drone Captured Imagery"
 date:           2026-01-23 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "The IEEE/CVF Winter Conference on Applications of Computer Vision, "
 pub_date:       "2026"
 semantic_scholar_id: 
