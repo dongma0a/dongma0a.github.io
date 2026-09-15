@@ -12,12 +12,13 @@ permalink: /service/
 
 <span class="badge badge-publication badge-success">Organizing Committee</span>
 - <strong>General Chair</strong>: Earcomp'22.
+- <strong>Video Chair</strong>: MobiSys'22.
+- <strong>PhD Forum Chair</strong>: WoWMoM'25.
 - <strong>Vice General Chair</strong>: MobiSys'26.
 - <strong>Publication Chair</strong>: PerCom'26, PerCom'25, HotMobile'22.
 - <strong>Tutorial Chair</strong>: UbiComp'26.
 - <strong>Poster Chair</strong>: SECON'26.
-- <strong>PhD Forum Chair</strong>: WoWMoM'25.
-- <strong>Video Chair</strong>: MobiSys'22.
+- <strong>Publicity Chair</strong>: MobiSys'27.
 
 <span class="badge badge-publication badge-success">Technical Program Committee</span>
 - <strong>TPC Chair</strong>: HeadSys'26@MobiSys'26, AIoTSys'25, BodySys'24@MobiSys'24, SmartWear'23@MobiCom'23.
