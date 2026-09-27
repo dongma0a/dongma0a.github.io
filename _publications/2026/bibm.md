@@ -2,7 +2,7 @@
 title:          "Learning from Bilateral PPG via Cross-Site Attention and Knowledge Distillation"
 date:           2026-09-23 00:01:00 +0800
 selected:       true
-pub:            "Learning from Bilateral PPG via Cross-Site Attention and Knowledge Distillation, "
+pub:            "IEEE International Conference on Bioinformatics & Biomedicine, "
 pub_date:       "2026 (Acceptance rate: 19.48%. To appear)"
 semantic_scholar_id: 
 abstract: 
