@@ -1,7 +1,7 @@
 ---
 title:          "Motion-Robust Single-Channel Wrist ECG Reconstruction for Exercise Cardiac Monitoring"
 date:           2026-09-25 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "IEEE-EMBS International Conference on Biomedical and Health Informatics, "
 pub_date:       "2026 (To appear)"
 semantic_scholar_id: 
