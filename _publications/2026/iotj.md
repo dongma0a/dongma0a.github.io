@@ -13,6 +13,6 @@ authors:
   - <strong>Dong Ma</strong>†
 links:
   Paper: https://ieeexplore.ieee.org/document/11716684
-  #Code: https://github.com/manhph2211/Cheap2Chic
+  Code: https://github.com/TheMaXiao/EmbodiTTA
   #Dataset: https://www.kaggle.com/datasets/dongma878/clearspeech
 ---
